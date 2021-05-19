@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏽, I'm Pirthvi Hasan G.</h1>
-<h4 align="center"> 🚀 Data Scientist ⚛ Machine Learning Enthusiast 📚 from Theni, India.</h4>
+<h4 align="center"> 🚀 Data Scientist ⚛ Machine Learning Enthusiast 🤖 from Theni, India.</h4>
 
 <br />
 
