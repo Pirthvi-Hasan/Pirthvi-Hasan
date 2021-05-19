@@ -10,10 +10,10 @@
  - ⚡ Fun fact: I love to play football and listen to music.
 
 ### **Connect with me:**
-[<img align="left" alt="Pirthvi Hasan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Pirthvi Hasan | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />][stackoverflow]
-[<img align="left" alt="Pirthvi Hasan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Pirthvi Hasan | Whatsapp" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Pirthvi Hasan | LinkedIn" height="22px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
+[<img align="left" alt="Pirthvi Hasan | Stackoverflow" height="22px" src="https://img.icons8.com/color/2x/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="Pirthvi Hasan | Whatsapp" height="22px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />][whatsapp]
+[<img align="left" alt="Pirthvi Hasan | Gmail" height="22px" src="https://img.icons8.com/doodle/2x/gmail.png" />][gmail]
 <br />
 
 ---
@@ -52,7 +52,6 @@
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
