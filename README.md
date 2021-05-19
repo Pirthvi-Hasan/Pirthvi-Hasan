@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋🏽, I'm Pirthvi Hasan G.</h1>
 <h4 align="center"> 🚀 Data Scientist ⚛ Machine Learning Enthusiast 🤖 from Theni, India.</h4>
 
-<br />
-
 ### **About Myself:**
  - 🚀 Data Scientist. Data Analysis and Machine Learning Enthusiast from Theni, India.
  - 🙍🏽‍♂️ Current: Looking for Internship in 2022.
