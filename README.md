@@ -20,24 +20,12 @@
 
 [<img alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
 [<img alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="R-Lang" width="30px" src="https://www.r-project.org/Rlogo.png">
-</code>](https://www.r-project.org/)
-[<code>
-<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="Github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="cpp" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png">
-</code>](https://isocpp.org/)
+[<img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
+[<img alt="R-Lang" width="30px" src="https://www.r-project.org/Rlogo.png">](https://www.r-project.org/)
+[<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)
+[<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
+[<img alt="Github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)
+[<img alt="cpp" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png">](https://isocpp.org/)
 
 ---
 
