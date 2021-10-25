@@ -18,24 +18,14 @@
 
 ### Languages and Tools:
 
-[<code>
-<img alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="JavaScript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
+[<img alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
+[<img alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
 [<code>
 <img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
 <img alt="R-Lang" width="30px" src="https://www.r-project.org/Rlogo.png">
 </code>](https://www.r-project.org/)
-[<code>
-<img alt="Html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
@@ -48,15 +38,6 @@
 [<code>
 <img alt="cpp" width="26px" src="https://isocpp.org/assets/images/cpp_logo.png">
 </code>](https://isocpp.org/)
-[<code>
-<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
-<img alt="Windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="Ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
 
 ---
 
