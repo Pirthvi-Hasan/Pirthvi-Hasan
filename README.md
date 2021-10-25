@@ -19,14 +19,14 @@
 ### Languages and Tools:
 
 [<img alt="Visual Studio Code" width="32px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)&ensp;
-[<img alt="Java" width="32px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)&ensp;
-[<img alt="python" width="32px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)&ensp;
-[<img alt="R-Lang" width="32px" src="https://www.r-project.org/Rlogo.png">](https://www.r-project.org/)&ensp;
-[<img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)&ensp;
-[<img alt="Scikit Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/stable/)&ensp;
-[<img alt="Tensorflow" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png">](https://www.tensorflow.org/)&ensp;
-[<img alt="Git" width="32px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)&ensp;
-[<img alt="Github" width="32px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)&ensp;
+[<img alt="Java" width="35px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)&ensp;
+[<img alt="python" width="35px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)&ensp;
+[<img alt="R-Lang" width="35px" src="https://www.r-project.org/Rlogo.png">](https://www.r-project.org/)&ensp;
+[<img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)&ensp;
+[<img alt="Scikit Learn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/stable/)&ensp;
+[<img alt="Tensorflow" width="34px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png">](https://www.tensorflow.org/)&ensp;
+[<img alt="Git" width="35px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)&ensp;
+[<img alt="Github" width="35px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)&ensp;
 [<img alt="cpp" width="32px" src="https://isocpp.org/assets/images/cpp_logo.png">](https://isocpp.org/)
 
 
